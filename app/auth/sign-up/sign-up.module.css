@@ -1,0 +1,15 @@
+.sign_up_wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(103, 14, 185);
+    padding: 25px 50px;
+    border-radius: 8px;
+    outline: none;
+    border: none;
+}
+.sign_up_wrapper h1{
+    margin-bottom: 25px;
+    font-size: 22px;
+    color: white;
+}

@@ -9,9 +9,7 @@ export const metadata: Metadata = {
     description: "Use email for sign-up",
 };
 
-type Props = {}
-
-export default function SignUp({ }: Props) {
+export default function SignUp() {
     return (
         <div className={styles.sign_up_wrapper}>
             <div>

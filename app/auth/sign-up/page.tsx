@@ -1,4 +1,3 @@
-import { signup } from '@/actions/auth'
 import SignUpForm from '@/widgets/auth/sign-up-form';
 import { Metadata } from 'next';
 import React from 'react';
